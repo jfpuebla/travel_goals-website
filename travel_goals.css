@@ -1,0 +1,80 @@
+html{background-image: linear-gradient(to bottom,#00bfff,skyblue);
+}
+
+#Introduction {background-color:rgb(23, 151, 61);
+padding: 25px;}
+
+#Introduction > p{font-family: sans-serif;
+font-size: 200%;
+text-align: justify;
+color:white}
+
+h1{font-family: 'Oswald', sans-serif;
+text-align: center;
+color:white;
+font-size: 300%;
+font-weight: 500px;
+}
+
+img{display: block;
+margin-left: auto;
+margin-right: auto;
+width: 500px;}
+
+h2{text-align: justify;
+font-family: 'Segoe UI', Tahoma,  Verdana, sans-serif;
+margin-left: 50px;
+font-size:200% ;}
+
+#content >div>p{text-align: justify;
+font-family: 'Segoe UI', Tahoma,  Verdana, sans-serif;
+font-size: 200%;
+margin:100px;
+border:5px dotted black;}    
+
+h3{font-family: "Oswald", sans-serif;
+font-size:250%;
+display:block;
+font-style: oblique;}
+
+
+footer > img {display:inline-block;
+width:250px;
+float:left;
+margin:0.5%;
+}
+
+footer > p {display:inline-block;
+float:right;
+font-size:35px;
+margin:0px 450px 20px 10px;
+width:70%;
+padding:10px;
+text-align: justify;
+
+border:10px solid black;
+}
+
+#contact{clear:both;}
+.my-fancy-container {
+    border: 1px solid white;
+    border-radius: 6px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+#facebook{margin:50px 10px 50px 1000px} /*only the fb logo centers the two other logos*/
+
+a{color:darkorchid}
+a:hover{color:blue;}
+a:focus {color:black}
+
+
+
+
+
+
+
+
+
